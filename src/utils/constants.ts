@@ -1,0 +1,1 @@
+export const BLINK_THRESHOLD = 0.2;
